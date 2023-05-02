@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "content": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "content": "Consectetur adipiscing elit"
+    }
+  ],
+  "users": {
+    "nuthan": {
+      "password": "pass123"
+    },
+    "user2": {
+      "password": "password2"
+    }
+  }
+}
